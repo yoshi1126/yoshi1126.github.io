@@ -1,3 +1,5 @@
+![N予備校のロゴ](478b4cf1-private.png)
+
 # Skills
 使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
 - OS（Windows,Ubuntuなど）
